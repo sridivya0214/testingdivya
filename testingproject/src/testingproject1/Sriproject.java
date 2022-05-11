@@ -6,6 +6,7 @@ public class Sriproject {
 		// TODO Auto-generated method stub
 int a=45;
 int b=48;
+		int t=a_b;
 		
 	}
 
